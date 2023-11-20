@@ -37,7 +37,9 @@ Estudiante de cuarto año en la carrera de Ciencia de Datos en la Universidad de
 
 Descubre mi actividad y contribuciones en GitHub.
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Yorchz&show_icons=true&count_private=true)
+<p align="center" style="background-color: black;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yorchz&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
+</p>
 
 ## 🌐 Encuéntrame en la Web
 
