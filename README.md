@@ -19,23 +19,29 @@ Estudiante de cuarto año en la carrera de Ciencia de Datos en la Universidad de
 
 ### Tecnologías
 
-### Tecnologías
+- [![PowerBi](https://img.shields.io/badge/PowerBi-000000?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/) 
 
-[![PowerBi](https://img.shields.io/badge/PowerBi-000000?style=for-the-badge&logo=powerbi)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)](https://support.microsoft.com/en-us/excel)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql)](https://www.w3schools.com/sql/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://docs.github.com/en)
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure)](https://docs.microsoft.com/en-us/azure/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://docs.aws.amazon.com/)
+- [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)](https://support.microsoft.com/en-us/excel) 
 
+- [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
+
+- [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+
+- [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql)](https://www.w3schools.com/sql/)
+
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+
+- [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/doc)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://docs.github.com/en)
+
+- [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure)](https://docs.microsoft.com/en-us/azure/)
+
+- [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://docs.aws.amazon.com/)
+
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 ## 💻 Rendimiento en GitHub
-
-Descubre mi actividad y contribuciones en GitHub.
 
 <p align="center" style="background-color: black;">
   <img src="https://github-readme-stats.vercel.app/api?username=Yorchz&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
