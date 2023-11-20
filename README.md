@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jorge Hernández Hernández 👋
+# ¡Hola! Soy Jorge Hernández Hernández
 
 Estudiante de cuarto año en la carrera de Ciencia de Datos en la Universidad de Las Palmas de Gran Canaria. Apasionado por el mundo de los datos y especializado en IA e Inteligencia Artificial, con un enfoque particular en el control y análisis de datos.
 <!--
@@ -43,8 +43,10 @@ Estudiante de cuarto año en la carrera de Ciencia de Datos en la Universidad de
 
 ## 💻 Rendimiento en GitHub
 
-<p align="center" style="background-color: black;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yorchz&show_icons=true&count_private=true" alt="Estadísticas de GitHub">
+Descubre los lenguajes que más utilizo en mis proyectos en GitHub.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yorchz&layout=compact&hide=html" alt="Lenguajes Más Utilizados">
 </p>
 
 ## 🌐 Encuéntrame en la Web
